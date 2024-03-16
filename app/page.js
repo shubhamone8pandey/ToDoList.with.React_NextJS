@@ -38,7 +38,7 @@ const Todo = () => {
 
   return (
     <>
-      <h1 className="w-full bg-blue-300 font-semibold h-auto text-center text-4xl py-6">
+      <h1 className="w-full bg-red-300 font-semibold h-auto text-center text-4xl py-6">
         Shubham's ToDo List
       </h1>
       <form onSubmit={handleSubmit}>
